@@ -31,6 +31,7 @@ button {
 
 button:hover {
 	transform: translateY(-10px);
+	box-shadow: 5px 5px 10px #337ab7;
 }
 
 #word {
